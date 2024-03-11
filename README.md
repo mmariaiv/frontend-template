@@ -1,2 +1,2 @@
-# frontend-template
-it is a template for websites
+# Это шаблон для быстрой инициализации сайта
+

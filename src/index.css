@@ -1,0 +1,6 @@
+@import url("@assets/normalize.css");
+@import url("@scss/_mixins.scss");
+@import url("@scss/_variables.scss");
+@import url("@scss/base.scss");
+
+@import url("@/App.scss");
